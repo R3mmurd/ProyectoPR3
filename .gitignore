@@ -1,2 +1,3 @@
+.vscode
 **.o
 !path/to/file.o
